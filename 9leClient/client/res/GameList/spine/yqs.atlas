@@ -1,0 +1,48 @@
+
+yqs.png
+size: 400,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 204, 2
+  size: 153, 116
+  orig: 153, 116
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 359, 87
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 153, 15
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 13
+  size: 149, 52
+  orig: 149, 52
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 182, 120
+  size: 189, 216
+  orig: 189, 216
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 2, 67
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 224,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iconBtn_shop
+  rotate: false
+  xy: 2, 2
+  size: 220, 98
+  orig: 220, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1023 @@
+<array>
+	<dict>
+		<key>name</key>		<string>bird0_move</string>
+		<key>format</key>	<string>Bird0_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+		    <string>11,1</string>
+		    <string>12,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird1_move</string>
+		<key>format</key>	<string>Bird1_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird2_move</string>
+		<key>format</key>	<string>Bird2_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird3_move</string>
+		<key>format</key>	<string>Bird3_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird4_move</string>
+		<key>format</key>	<string>Bird4_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird5_move</string>
+		<key>format</key>	<string>Bird5_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+			<string>25,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>bird6_move</string>
+		<key>format</key>	<string>Bird6_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+			<string>25,1</string>
+			<string>26,1</string>
+			<string>27,1</string>
+			<string>28,1</string>
+			<string>29,1</string>
+			<string>30,1</string>
+			<string>31,1</string>
+			<string>32,1</string>
+			<string>33,1</string>
+			<string>34,1</string>
+			<string>35,1</string>
+			<string>36,1</string>
+			<string>37,1</string>
+			<string>38,1</string>
+			<string>39,1</string>
+			<string>40,1</string>
+			<string>41,1</string>	
+			<string>42,1</string>
+			<string>43,1</string>
+			<string>44,1</string>
+			<string>45,1</string>
+			<string>46,1</string>
+			<string>47,1</string>
+			<string>48,1</string>
+			<string>49,1</string>
+			<string>50,1</string>
+			<string>51,1</string>	
+			<string>52,1</string>
+			<string>53,1</string>
+			<string>54,1</string>
+			<string>55,1</string>
+			<string>56,1</string>
+			<string>57,1</string>
+			<string>58,1</string>
+			<string>59,1</string>
+			<string>60,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird7_move</string>
+		<key>format</key>	<string>Bird7_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird8_move</string>
+		<key>format</key>	<string>Bird8_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird9_move</string>
+		<key>format</key>	<string>Bird9_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird10_move</string>
+		<key>format</key>	<string>Bird10_%02d.png</string>
+		<key>start</key>	<string>1</string>
+		<key>end</key>		<string>10</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird11_move</string>
+		<key>format</key>	<string>Bird11_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird12_move</string>
+		<key>format</key>	<string>Bird12_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird13_move</string>
+		<key>format</key>	<string>Bird13_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird14_move</string>
+		<key>format</key>	<string>Bird14_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird15_move</string>
+		<key>format</key>	<string>Bird15_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird16_move</string>
+		<key>format</key>	<string>Bird16_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird17_move</string>
+		<key>format</key>	<string>Bird17_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird18_move</string>
+		<key>format</key>	<string>Bird18_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird19_move</string>
+		<key>format</key>	<string>Bird19_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird20_move</string>
+		<key>format</key>	<string>Bird20_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird21_move</string>
+		<key>format</key>	<string>Bird21_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird22_move</string>
+		<key>format</key>	<string>Bird22_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+ 			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird23_move</string>
+		<key>format</key>	<string>Bird23_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+			<string>20,1</string>
+			<string>21,1</string>
+			<string>22,1</string>
+			<string>23,1</string>
+			<string>24,1</string>
+			<string>25,1</string>
+			<string>26,1</string>
+			<string>27,1</string>
+			<string>28,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird24_move</string>
+		<key>format</key>	<string>Bird24_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+			<string>19,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird25_move</string>
+		<key>format</key>	<string>Bird25_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird26_move</string>
+		<key>format</key>	<string>Bird26_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird26_dead</string>
+		<key>format</key>	<string>Tmd_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+		<dict>
+		<key>name</key>		<string>bird27_move</string>
+		<key>format</key>	<string>Bird26_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird27_dead</string>
+		<key>format</key>	<string>Tmd_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+		<dict>
+		<key>name</key>		<string>bird28_move</string>
+		<key>format</key>	<string>Bird26_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>	
+			<string>17,1</string>
+			<string>18,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>bird28_dead</string>
+		<key>format</key>	<string>Tmd_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>bird29_move</string>
+		<key>format</key>	<string>Bird27_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>bird29_dead</string>
+		<key>format</key>	<string>Tmd_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+
+	<!-- 特殊鱼42和48的圆盘效果都是用的Bird17_Effect这张图片 42为1条鱼 -->
+<!-- 特殊鱼42和48的圆盘效果都是用的Bird17_Effect这张图片 42为1条鱼 -->
+	<dict>
+		<key>name</key>		<string>BirdEffect50</string>
+		<key>format</key>	<string>Bird17_Effect_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>BirdEffect51</string>
+		<key>format</key>	<string>Bird18_Effect_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+
+	<!-- 特殊鱼34的圆盘效果都是用的Bird1_Effect这张图片 -->
+	<dict>
+		<key>name</key>		<string>BirdEffect52</string>
+		<key>format</key>	<string>Bird19_Effect_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>BirdEffect53</string>
+		<key>format</key>	<string>Bird20_Effect_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>BirdEffect54</string>
+		<key>format</key>	<string>Bird21_Effect_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+	
+			<!-- 闪电球 -->
+	<dict>
+		<key>name</key>		<string>BirdEffect40</string>
+		<key>format</key>	<string>img_blue_circle_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+		</array>
+	</dict>
+	
+	<!-- 元宝鱼 -->
+	<dict>
+		<key>name</key>		<string>BirdEffect42</string>
+		<key>format</key>	<string>img_diamond_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+</array>

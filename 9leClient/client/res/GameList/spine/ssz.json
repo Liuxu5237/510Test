@@ -1,0 +1,73 @@
+{
+"skeleton": { "hash": "Lga51VkGp4SjBMRM00picGanA8U", "spine": "3.6.52", "width": 242, "height": 237, "images": "./pngs/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "tuopan", "parent": "root", "x": 131.93, "y": -180.56 },
+	{ "name": "cmp", "parent": "tuopan", "x": -24.35, "y": 49.9 },
+	{ "name": "title", "parent": "tuopan", "x": -3.56, "y": -23.17 },
+	{ "name": "jb", "parent": "title", "x": 42.17, "y": 24.95 }
+],
+"slots": [
+	{ "name": "tuopan", "bone": "tuopan", "attachment": "tuopan" },
+	{ "name": "cmp", "bone": "cmp", "attachment": "cmp" },
+	{ "name": "jb", "bone": "jb", "attachment": "jb" },
+	{ "name": "title", "bone": "title", "attachment": "title" }
+],
+"skins": {
+	"default": {
+		"cmp": {
+			"cmp": { "x": 13.92, "y": 38.67, "width": 187, "height": 184 }
+		},
+		"jb": {
+			"jb": { "x": -22.54, "y": 40.78, "width": 110, "height": 126 }
+		},
+		"title": {
+			"title": { "x": -1.87, "y": -1.27, "width": 147, "height": 52 }
+		},
+		"tuopan": {
+			"tuopan": { "x": -5.93, "y": 32.56, "width": 242, "height": 178 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"jb": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": -5.54,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "angle": 0 }
+				]
+			},
+			"cmp": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"angle": 2.71,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.1667, "x": 3.56, "y": 0 },
+					{ "time": 2.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,153 @@
+
+brnn_js6.png
+size: 1456,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brnn_js6_body
+  rotate: false
+  xy: 540, 127
+  size: 356, 401
+  orig: 356, 401
+  offset: 0, 0
+  index: -1
+brnn_js6_lian
+  rotate: true
+  xy: 1250, 374
+  size: 154, 201
+  orig: 154, 201
+  offset: 0, 0
+  index: -1
+brnn_js6_liuhai2
+  rotate: true
+  xy: 2, 11
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+brnn_js6_toufa
+  rotate: true
+  xy: 2, 101
+  size: 427, 536
+  orig: 427, 536
+  offset: 0, 0
+  index: -1
+brnn_js6_xiong
+  rotate: false
+  xy: 1007, 235
+  size: 241, 293
+  orig: 241, 293
+  offset: 0, 0
+  index: -1
+brnn_js6_yanpi
+  rotate: false
+  xy: 1327, 124
+  size: 106, 35
+  orig: 106, 35
+  offset: 0, 0
+  index: -1
+brnn_js6_youshou
+  rotate: false
+  xy: 898, 208
+  size: 107, 320
+  orig: 107, 320
+  offset: 0, 0
+  index: -1
+brnn_js6_youshoubi
+  rotate: true
+  xy: 1250, 207
+  size: 165, 192
+  orig: 165, 192
+  offset: 0, 0
+  index: -1
+brnn_js6_youtoufa_xia
+  rotate: true
+  xy: 1327, 161
+  size: 44, 127
+  orig: 44, 127
+  offset: 0, 0
+  index: -1
+brnn_js6_yuoerhuan
+  rotate: true
+  xy: 529, 3
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+brnn_js6_yuoliuhai
+  rotate: true
+  xy: 898, 135
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoerhuan
+  rotate: true
+  xy: 540, 103
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoliuhai
+  rotate: true
+  xy: 1078, 162
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoliuhai2
+  rotate: true
+  xy: 412, 23
+  size: 76, 115
+  orig: 76, 115
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoliuhai3
+  rotate: true
+  xy: 139, 18
+  size: 81, 148
+  orig: 81, 148
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoliuhai4
+  rotate: true
+  xy: 289, 21
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoliuhai5
+  rotate: false
+  xy: 967, 2
+  size: 109, 204
+  orig: 109, 204
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoshou
+  rotate: true
+  xy: 631, 2
+  size: 123, 334
+  orig: 123, 334
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoshoubi
+  rotate: true
+  xy: 1078, 5
+  size: 155, 247
+  orig: 155, 247
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoxia_toufa
+  rotate: true
+  xy: 529, 25
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+brnn_js6_zuoxitoufa
+  rotate: true
+  xy: 1209, 163
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1

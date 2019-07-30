@@ -1,0 +1,48 @@
+
+csll.png
+size: 435,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20lines
+  rotate: false
+  xy: 156, 82
+  size: 83, 26
+  orig: 83, 26
+  offset: 0, 0
+  index: -1
+cs
+  rotate: false
+  xy: 2, 110
+  size: 251, 190
+  orig: 251, 190
+  offset: 0, 0
+  index: -1
+jb
+  rotate: false
+  xy: 2, 2
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 353, 25
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 156, 4
+  size: 195, 52
+  orig: 195, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 255, 58
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

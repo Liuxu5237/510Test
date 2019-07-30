@@ -1,0 +1,76 @@
+
+GoldBean.png
+size: 244,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beanlight
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+glowseep_00002
+  rotate: false
+  xy: 104, 7
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00003
+  rotate: false
+  xy: 164, 71
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00004
+  rotate: false
+  xy: 199, 71
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00005
+  rotate: false
+  xy: 164, 38
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00006
+  rotate: false
+  xy: 199, 38
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00007
+  rotate: false
+  xy: 139, 5
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00008
+  rotate: false
+  xy: 174, 5
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+glowseep_00009
+  rotate: false
+  xy: 209, 5
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+goldbean
+  rotate: false
+  xy: 104, 40
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1

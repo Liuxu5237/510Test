@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>path_type</key>
+		<string>0</string>
+		<key>path_num</key>
+		<string>208</string>
+		<key>path</key>
+		<string>path/small/%d.txt</string>
+	</dict>
+	<dict>
+		<key>path_type</key>
+		<string>1</string>
+		<key>path_num</key>
+		<string>130</string>
+		<key>path</key>
+		<string>path/big/%d.txt</string>
+	</dict>
+	<dict>
+		<key>path_type</key>
+		<string>2</string>
+		<key>path_num</key>
+		<string>62</string>
+		<key>path</key>
+		<string>path/huge/%d.txt</string>
+	</dict>
+	<dict>
+		<key>path_type</key>
+		<string>3</string>
+		<key>path_num</key>
+		<string>24</string>
+		<key>path</key>
+		<string>path/special/%d.txt</string>
+	</dict>
+	<dict>
+		<key>path_type</key>
+		<string>4</string>
+		<key>path_num</key>
+		<string>2</string>
+		<key>path</key>
+		<string>path/scene/%d.txt</string>
+	</dict>
+</array>
+</plist>

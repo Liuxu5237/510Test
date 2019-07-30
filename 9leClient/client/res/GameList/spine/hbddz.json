@@ -1,0 +1,99 @@
+{
+"skeleton": { "hash": "OiAHQrbWtCprb+aNX4eqio3LBVs", "spine": "3.6.52", "width": 242, "height": 226, "images": "./pngs/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "tuopan", "parent": "root", "x": 108.54, "y": -177.81 },
+	{ "name": "dz", "parent": "tuopan", "x": -2.23, "y": 53.57 },
+	{ "name": "hb", "parent": "tuopan", "x": -26.23, "y": 1.12 },
+	{ "name": "jbdai", "parent": "tuopan", "x": 85.37, "y": 17.3 },
+	{ "name": "nm", "parent": "tuopan", "x": 84.82, "y": 109.37 },
+	{ "name": "title", "parent": "tuopan", "x": 18.41, "y": -25.67 }
+],
+"slots": [
+	{ "name": "tuopan", "bone": "tuopan", "attachment": "tuopan" },
+	{ "name": "jbdai", "bone": "jbdai", "attachment": "jbdai" },
+	{ "name": "nm", "bone": "nm", "attachment": "nm" },
+	{ "name": "dz", "bone": "dz", "attachment": "dz" },
+	{ "name": "hb", "bone": "hb", "attachment": "hb" },
+	{ "name": "title", "bone": "title", "attachment": "title" }
+],
+"skins": {
+	"default": {
+		"dz": {
+			"dz": { "x": -10.31, "y": 14.24, "width": 142, "height": 198 }
+		},
+		"hb": {
+			"hb": { "x": 10.68, "y": 19.19, "width": 160, "height": 87 }
+		},
+		"jbdai": {
+			"jbdai": { "x": -3.92, "y": 3.51, "width": 94, "height": 86 }
+		},
+		"nm": {
+			"nm": { "x": -6.86, "y": -4.06, "width": 71, "height": 117 }
+		},
+		"title": {
+			"title": { "x": -1.96, "y": 0.47, "width": 228, "height": 52 }
+		},
+		"tuopan": {
+			"tuopan": { "x": 17.46, "y": 29.81, "width": 242, "height": 178 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"hb": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 3.91,
+						"y": 2.23,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.0667, "x": 0, "y": 0 }
+				]
+			},
+			"jbdai": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{
+						"time": 0.9,
+						"x": 0,
+						"y": -3.91,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.8333, "x": 0, "y": 0 }
+				]
+			},
+			"dz": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0333,
+						"angle": 3.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.0667, "angle": 0 }
+				]
+			},
+			"nm": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.0333, "x": 3.35, "y": 1.67 },
+					{ "time": 2.0667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

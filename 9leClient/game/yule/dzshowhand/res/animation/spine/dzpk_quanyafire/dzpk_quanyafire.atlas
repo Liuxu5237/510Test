@@ -1,0 +1,90 @@
+
+dzpk_quanyafire.png
+size: 473,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzpk_quanyakuangfire0
+  rotate: true
+  xy: 154, 21
+  size: 73, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire1
+  rotate: false
+  xy: 2, 97
+  size: 74, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire10
+  rotate: false
+  xy: 323, 3
+  size: 73, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire11
+  rotate: false
+  xy: 398, 3
+  size: 73, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire2
+  rotate: false
+  xy: 2, 3
+  size: 74, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire3
+  rotate: false
+  xy: 78, 97
+  size: 74, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire4
+  rotate: false
+  xy: 78, 3
+  size: 74, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire5
+  rotate: false
+  xy: 304, 97
+  size: 73, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire6
+  rotate: false
+  xy: 154, 96
+  size: 73, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+dzpk_quanyakuangfire7
+  rotate: false
+  xy: 379, 97
+  size: 73, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire8
+  rotate: false
+  xy: 248, 2
+  size: 73, 92
+  orig: 74, 93
+  offset: 0, 1
+  index: -1
+dzpk_quanyakuangfire9
+  rotate: false
+  xy: 229, 96
+  size: 73, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1

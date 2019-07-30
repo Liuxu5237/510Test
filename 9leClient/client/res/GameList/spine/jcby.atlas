@@ -1,0 +1,41 @@
+
+jcby.png
+size: 371,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb
+  rotate: false
+  xy: 317, 44
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+jc
+  rotate: false
+  xy: 198, 2
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 23
+  size: 194, 52
+  orig: 194, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 2, 77
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 182, 111
+  size: 182, 208
+  orig: 182, 208
+  offset: 0, 0
+  index: -1

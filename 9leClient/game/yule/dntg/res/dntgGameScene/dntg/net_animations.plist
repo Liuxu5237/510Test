@@ -1,0 +1,62 @@
+<array>
+	<dict>
+		<key>name</key>		<string>Net1</string>
+		<key>format</key>	<string>Net1_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>		<string>Net2</string>
+		<key>format</key>	<string>Net2_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>		<string>Net3</string>
+		<key>format</key>	<string>Net3_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+		</array>
+	</dict>
+</array>

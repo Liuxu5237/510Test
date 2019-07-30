@@ -1,0 +1,41 @@
+
+xmby.png
+size: 721,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hc
+  rotate: false
+  xy: 430, 69
+  size: 174, 111
+  orig: 174, 111
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 430, 15
+  size: 193, 52
+  orig: 193, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 2
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 246, 7
+  size: 173, 182
+  orig: 173, 182
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 606, 78
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,108 @@
+{
+"skeleton": { "hash": "QbxCnlAWmCrEH8v17oYMTw940iI", "spine": "3.6.52", "width": 889.44, "height": 294.18, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "chibang", "parent": "root", "length": 233.35, "rotation": 170.62, "x": -47.46, "y": -18.13 },
+	{ "name": "chibang2", "parent": "root", "length": 236.99, "rotation": 10.22, "x": 53.64, "y": -17.13 },
+	{ "name": "chibang3", "parent": "chibang2", "length": 236.99 },
+	{ "name": "chibang4", "parent": "chibang", "length": 233.35 },
+	{ "name": "圆角矩形 1", "parent": "root", "x": -0.41, "y": -74.39 },
+	{ "name": "圆角矩形 3", "parent": "圆角矩形 1", "x": -1, "y": 21.02 }
+],
+"slots": [
+	{ "name": "chibang", "bone": "chibang", "attachment": "chibang" },
+	{ "name": "chibang4", "bone": "chibang4", "attachment": "chibang", "blend": "additive" },
+	{ "name": "chibang2", "bone": "chibang2", "attachment": "chibang" },
+	{ "name": "chibang3", "bone": "chibang3", "attachment": "chibang", "blend": "additive" },
+	{ "name": "圆角矩形 1", "bone": "圆角矩形 1", "attachment": "圆角矩形 1" },
+	{ "name": "圆角矩形 2", "bone": "圆角矩形 3", "attachment": "圆角矩形 2" }
+],
+"skins": {
+	"default": {
+		"chibang": {
+			"chibang": { "x": 173.93, "y": 14.58, "rotation": -170.62, "width": 446, "height": 289 }
+		},
+		"chibang2": {
+			"chibang": { "x": 167.99, "y": -17.1, "scaleX": -1, "rotation": -10.22, "width": 446, "height": 289 }
+		},
+		"chibang3": {
+			"chibang": { "x": 167.99, "y": -17.1, "scaleX": -1, "rotation": -10.22, "width": 446, "height": 289 }
+		},
+		"chibang4": {
+			"chibang": { "x": 173.93, "y": 14.58, "rotation": -170.62, "width": 446, "height": 289 }
+		},
+		"圆角矩形 1": {
+			"圆角矩形 1": { "x": -0.03, "y": -1.95, "width": 574, "height": 155 }
+		},
+		"圆角矩形 2": {
+			"圆角矩形 2": { "x": -1.03, "y": -15.97, "width": 524, "height": 113 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"chibang3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"chibang4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"chibang": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": -20.62,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "angle": 0 }
+				]
+			},
+			"chibang2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": 19.78,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "angle": 0 }
+				]
+			},
+			"chibang4": {
+				"scale": [
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.5, "y": 1.5 }
+				]
+			},
+			"chibang3": {
+				"scale": [
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.5, "y": 1.5 }
+				]
+			}
+		}
+	}
+}
+}

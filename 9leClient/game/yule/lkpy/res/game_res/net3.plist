@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>game_res/net4_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{379,946},{55,57}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{379,869},{77,77}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{274,869},{105,105}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{148,870},{126,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,870},{148,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,192},{170,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{358,0},{192,192}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,358},{213,213}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,618},{252,252}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{358,358}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,358},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+			<key>game_res/net4_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,618},{250,251}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,360}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>net3.png</string>
+			<key>realTextureFileName</key>
+			<string>net3.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

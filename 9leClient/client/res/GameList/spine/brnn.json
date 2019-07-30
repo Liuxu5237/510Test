@@ -1,0 +1,48 @@
+{
+"skeleton": { "hash": "NT/mNHmEHckz/ieGjQR6r/lRgfY", "spine": "3.6.52", "width": 242, "height": 226, "images": "./pngs/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "tuopan", "parent": "root", "x": 123.63, "y": -181.58 },
+	{ "name": "niu", "parent": "tuopan", "length": 76.04, "rotation": 90.9, "x": -1.78, "y": 15.44 },
+	{ "name": "title", "parent": "tuopan", "x": -1.19, "y": -20.2 }
+],
+"slots": [
+	{ "name": "tuopan", "bone": "tuopan", "attachment": "tuopan" },
+	{ "name": "niu", "bone": "niu", "attachment": "niu" },
+	{ "name": "title", "bone": "title", "attachment": "title" }
+],
+"skins": {
+	"default": {
+		"niu": {
+			"niu": { "x": 65.61, "y": -2.18, "rotation": -90.9, "width": 232, "height": 179 }
+		},
+		"title": {
+			"title": { "x": 4.06, "y": -3.23, "width": 191, "height": 52 }
+		},
+		"tuopan": {
+			"tuopan": { "x": 2.37, "y": 33.58, "width": 242, "height": 178 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"niu": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.94,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": -3.46,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "angle": 1.94 }
+				]
+			}
+		}
+	}
+}
+}

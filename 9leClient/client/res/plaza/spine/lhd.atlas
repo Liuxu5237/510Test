@@ -1,0 +1,48 @@
+
+lhd.png
+size: 572,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb1
+  rotate: false
+  xy: 516, 111
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: false
+  xy: 516, 74
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+jb3
+  rotate: false
+  xy: 462, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+lhtitle
+  rotate: true
+  xy: 462, 37
+  size: 144, 52
+  orig: 144, 52
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 246, 4
+  size: 214, 177
+  orig: 214, 177
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 3
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

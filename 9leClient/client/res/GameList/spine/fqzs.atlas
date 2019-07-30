@@ -1,0 +1,41 @@
+
+fqzs.png
+size: 388,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou
+  rotate: true
+  xy: 301, 239
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 246, 126
+  size: 191, 53
+  orig: 191, 53
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 139
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+xdw
+  rotate: false
+  xy: 2, 2
+  size: 234, 135
+  orig: 234, 135
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 301, 98
+  size: 83, 139
+  orig: 83, 139
+  offset: 0, 0
+  index: -1

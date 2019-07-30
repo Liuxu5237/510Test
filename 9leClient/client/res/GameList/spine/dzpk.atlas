@@ -1,0 +1,41 @@
+
+dzpk.png
+size: 568,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DZtitle
+  rotate: true
+  xy: 453, 2
+  size: 191, 52
+  orig: 191, 52
+  offset: 0, 0
+  index: -1
+cm
+  rotate: true
+  xy: 507, 114
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+jb
+  rotate: false
+  xy: 507, 52
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 246, 4
+  size: 205, 189
+  orig: 205, 189
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 15
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

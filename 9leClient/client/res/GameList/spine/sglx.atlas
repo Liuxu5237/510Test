@@ -1,0 +1,41 @@
+
+sglx.png
+size: 345,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cml
+  rotate: false
+  xy: 280, 52
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+cmr
+  rotate: false
+  xy: 193, 37
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+lb
+  rotate: false
+  xy: 2, 2
+  size: 189, 134
+  orig: 189, 134
+  offset: 0, 0
+  index: -1
+tit
+  rotate: true
+  xy: 246, 122
+  size: 194, 52
+  orig: 194, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 138
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+brsb.png
+size: 782,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cm
+  rotate: true
+  xy: 246, 6
+  size: 174, 188
+  orig: 174, 188
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 436, 14
+  size: 151, 166
+  orig: 151, 166
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 589, 128
+  size: 191, 52
+  orig: 191, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 2
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+BigWin.png
+size: 1026,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 2, 2
+  size: 446, 289
+  orig: 446, 289
+  offset: 0, 0
+  index: -1
+圆角矩形 1
+  rotate: false
+  xy: 450, 136
+  size: 574, 155
+  orig: 574, 155
+  offset: 0, 0
+  index: -1
+圆角矩形 2
+  rotate: false
+  xy: 450, 21
+  size: 524, 113
+  orig: 524, 113
+  offset: 0, 0
+  index: -1

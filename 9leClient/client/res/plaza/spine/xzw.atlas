@@ -1,0 +1,41 @@
+
+xzw.png
+size: 754,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bouns5
+  rotate: false
+  xy: 246, 5
+  size: 221, 175
+  orig: 221, 175
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 679, 53
+  size: 127, 73
+  orig: 127, 73
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 469, 58
+  size: 122, 208
+  orig: 122, 208
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 2
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+xzwtitle
+  rotate: false
+  xy: 469, 4
+  size: 148, 52
+  orig: 148, 52
+  offset: 0, 0
+  index: -1

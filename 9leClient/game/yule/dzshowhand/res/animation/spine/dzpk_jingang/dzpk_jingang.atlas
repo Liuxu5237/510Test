@@ -1,0 +1,209 @@
+
+dzpk_jingang.png
+size: 1009,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzpk_jg_gebo1
+  rotate: false
+  xy: 243, 2
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+dzpk_jg_gebo2
+  rotate: true
+  xy: 459, 136
+  size: 213, 261
+  orig: 213, 261
+  offset: 0, 0
+  index: -1
+dzpk_jg_shenti
+  rotate: false
+  xy: 770, 354
+  size: 182, 221
+  orig: 182, 221
+  offset: 0, 0
+  index: -1
+dzpk_jg_shou
+  rotate: false
+  xy: 841, 596
+  size: 165, 144
+  orig: 165, 144
+  offset: 0, 0
+  index: -1
+dzpk_jg_tou
+  rotate: true
+  xy: 882, 248
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+dzpk_jg_tui1
+  rotate: false
+  xy: 772, 219
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+dzpk_jg_tui2
+  rotate: false
+  xy: 772, 131
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+dzpk_jingangguangci
+  rotate: false
+  xy: 722, 159
+  size: 48, 190
+  orig: 48, 190
+  offset: 0, 0
+  index: -1
+dzpk_jingangguanggc
+  rotate: false
+  xy: 2, 351
+  size: 766, 224
+  orig: 766, 224
+  offset: 0, 0
+  index: -1
+dzpk_jingangshiqiang
+  rotate: false
+  xy: 2, 140
+  size: 455, 209
+  orig: 455, 209
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi1
+  rotate: true
+  xy: 762, 3
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi10
+  rotate: false
+  xy: 884, 130
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi11
+  rotate: true
+  xy: 970, 83
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi12
+  rotate: false
+  xy: 876, 39
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi13
+  rotate: false
+  xy: 876, 6
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi14
+  rotate: false
+  xy: 924, 14
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi15
+  rotate: false
+  xy: 722, 139
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi2
+  rotate: true
+  xy: 669, 18
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi3
+  rotate: true
+  xy: 967, 826
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi4
+  rotate: true
+  xy: 967, 921
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi5
+  rotate: false
+  xy: 432, 3
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi6
+  rotate: false
+  xy: 2, 2
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi7
+  rotate: false
+  xy: 841, 583
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi8
+  rotate: true
+  xy: 967, 776
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+dzpk_jingangsuishi9
+  rotate: false
+  xy: 967, 878
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dzpk_jingangtext
+  rotate: true
+  xy: 841, 742
+  size: 242, 124
+  orig: 242, 124
+  offset: 0, 0
+  index: -1
+dzpk_jingangtextgd
+  rotate: false
+  xy: 2, 25
+  size: 239, 113
+  orig: 239, 113
+  offset: 0, 0
+  index: -1
+dzpk_jingangtextgm
+  rotate: false
+  xy: 2, 577
+  size: 837, 407
+  orig: 837, 407
+  offset: 0, 0
+  index: -1
+dzpk_jingangtextgm1
+  rotate: false
+  xy: 432, 23
+  size: 235, 111
+  orig: 235, 111
+  offset: 0, 0
+  index: -1

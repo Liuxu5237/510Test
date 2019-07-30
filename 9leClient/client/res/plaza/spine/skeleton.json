@@ -1,0 +1,32 @@
+{
+"skeleton": { "hash": "CGMqIfqu1VArI6n2JpV+Y1KjSlw", "spine": "3.6.52", "width": 220, "height": 98, "images": "./pngs/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "icon", "parent": "root", "x": 111, "y": -74 }
+],
+"slots": [
+	{ "name": "icon", "bone": "icon", "attachment": "iconBtn_shop" }
+],
+"skins": {
+	"default": {
+		"icon": {
+			"iconBtn_shop": { "x": -8, "y": 35, "width": 220, "height": 98 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"icon": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 0.799, "y": 1.467 },
+					{ "time": 0.3333, "x": 1.252, "y": 0.82 },
+					{ "time": 0.5, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 3.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

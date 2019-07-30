@@ -1,0 +1,111 @@
+
+dzpk_allinmenufire.png
+size: 484,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzpk_allinmenufire0
+  rotate: true
+  xy: 2, 2
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire1
+  rotate: true
+  xy: 61, 189
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire10
+  rotate: false
+  xy: 120, 140
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire11
+  rotate: true
+  xy: 307, 2
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire12
+  rotate: true
+  xy: 366, 2
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire13
+  rotate: true
+  xy: 425, 2
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire14
+  rotate: false
+  xy: 120, 81
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire2
+  rotate: true
+  xy: 61, 2
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire3
+  rotate: false
+  xy: 120, 317
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire4
+  rotate: true
+  xy: 307, 189
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire5
+  rotate: true
+  xy: 366, 189
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire6
+  rotate: true
+  xy: 425, 189
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire7
+  rotate: false
+  xy: 120, 258
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire8
+  rotate: false
+  xy: 120, 199
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1
+dzpk_allinmenufire9
+  rotate: true
+  xy: 2, 189
+  size: 185, 57
+  orig: 185, 57
+  offset: 0, 0
+  index: -1

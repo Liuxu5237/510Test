@@ -1,0 +1,48 @@
+
+brnnkuaisukaishi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brnnksksgg
+  rotate: false
+  xy: 375, 54
+  size: 266, 65
+  orig: 267, 66
+  offset: 1, 0
+  index: -1
+brnnksksgt
+  rotate: false
+  xy: 2, 187
+  size: 499, 61
+  orig: 499, 61
+  offset: 0, 0
+  index: -1
+brnnksksicon
+  rotate: false
+  xy: 2, 58
+  size: 371, 127
+  orig: 371, 127
+  offset: 0, 0
+  index: -1
+brnnksksiconhx
+  rotate: false
+  xy: 503, 121
+  size: 371, 127
+  orig: 371, 127
+  offset: 0, 0
+  index: -1
+brnnksksjt
+  rotate: false
+  xy: 2, 2
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+brnnkskstext
+  rotate: false
+  xy: 643, 50
+  size: 244, 69
+  orig: 244, 69
+  offset: 0, 0
+  index: -1

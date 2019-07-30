@@ -1,0 +1,28 @@
+<!-- 强化技能动画 -->
+<dict>
+	<key>name</key>		<string>Skill</string>
+	<key>format</key>	<string>UIEffect_013_%02d.png</string>
+	<key>delay</key>	<string>0.1</string>
+	<key>frames</key>
+	<array>
+		<string>2,1</string>
+		<string>4,1</string>
+		<string>8,1</string>
+		<string>10,1</string>
+		<string>14,1</string>
+		<string>16,1</string>
+		<string>20,1</string>
+		<string>22,1</string>
+		<string>26,1</string>
+		<string>28,1</string>
+		<string>32,1</string>
+		<string>34,1</string>
+		<string>38,1</string>
+		<string>40,1</string>
+		<string>44,1</string>
+		<string>46,1</string>
+		<string>50,1</string>
+		<string>52,1</string>
+		<string>62,20</string>
+	</array>
+</dict>

@@ -1,0 +1,27 @@
+
+brnn.png
+size: 363,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niu
+  rotate: true
+  xy: 182, 66
+  size: 232, 179
+  orig: 232, 179
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 2
+  size: 191, 52
+  orig: 191, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 2, 56
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

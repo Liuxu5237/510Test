@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bomb</key>
+	<string>sounds/bomb.mp3</string>
+	<key>superarm</key>
+	<string>sounds/superarm.mp3</string>
+	<key>jinbi</key>
+	<string>sounds/jinbi.mp3</string>
+	<key>cannon_add</key>
+	<string>sounds/cannon_add.mp3</string>
+	<key>cannon_sub</key>
+	<string>sounds/cannon_add.mp3</string>
+	<key>strengthen_fail</key>
+	<string>sounds/strengthen_fail.mp3</string>
+	<key>strengthen_success</key>
+	<string>sounds/strengthen_success.mp3</string>
+	<key>bingo</key>
+	<string>sounds/bingo.mp3</string>
+	<key>catch</key>
+	<string>sounds/catch.mp3</string>
+	
+	<key>WaveEnter</key>
+	<string>sounds/WaveEnter.mp3</string>
+
+	<key>eel</key>
+	<string>sounds/eel.mp3</string>
+	
+	<key>scene0</key>
+	<string>sounds/bgm1.mp3</string>
+	<key>scene1</key>
+	<string>sounds/bgm2.mp3</string>
+	<key>scene2</key>
+	<string>sounds/bgm3.mp3</string>
+	<key>scene3</key>
+	<string>sounds/bgm4.mp3</string>
+	
+	<key>skill_cast</key>
+	<string>sounds/skill_cast.mp3</string>
+
+	<!-- 开炮 -->
+	<key>fire0</key>
+	<string>sounds/fire0.mp3</string>
+	<key>fire1</key>
+	<string>sounds/fire1.mp3</string>
+	<key>fire2</key>
+	<string>sounds/fire2.mp3</string>
+	
+	<!-- 网 -->
+	<key>net0</key>
+	<string>sounds/net0.mp3</string>
+	<key>net3</key>
+	<string>sounds/net3.mp3</string>
+	<key>net4</key>
+	<string>sounds/net4.mp3</string>
+	<key>net5</key>
+	<string>sounds/net5.mp3</string>
+	<key>net10</key>
+	<string>sounds/net10.mp3</string>
+	<key>net20</key>
+	<string>sounds/net20.mp3</string>
+	<key>net30</key>
+	<string>sounds/net30.mp3</string>
+	<key>net40</key>
+	<string>sounds/net40.mp3</string>
+	<key>net50</key>
+	<string>sounds/net50.mp3</string>
+	
+	<!-- 抓到小分鱼 -->
+	<key>smallFish_0</key>
+	<string>sounds/smallFish_0.mp3</string>
+	<key>smallFish_1</key>
+	<string>sounds/smallFish_1.mp3</string>
+	<key>smallFish_2</key>
+	<string>sounds/smallFish_2.mp3</string>
+	<key>smallFish_3</key>
+	<string>sounds/smallFish_3.mp3</string>
+	<key>smallFish_4</key>
+	<string>sounds/smallFish_4.mp3</string>
+	<key>smallFish_5</key>
+	<string>sounds/smallFish_5.mp3</string>
+	<key>smallFish_6</key>
+	<string>sounds/smallFish_6.mp3</string>
+	<key>smallFish_7</key>
+	<string>sounds/smallFish_7.mp3</string>
+	<key>smallFish_8</key>
+	<string>sounds/smallFish_8.mp3</string>
+	<key>smallFish_9</key>
+	<string>sounds/smallFish_9.mp3</string>
+
+	<!-- 抓到大分鱼 -->
+	<key>bigFish_0</key>
+	<string>sounds/bigFish_0.mp3</string>
+	<key>bigFish_1</key>
+	<string>sounds/bigFish_1.mp3</string>
+	<key>bigFish_2</key>
+	<string>sounds/bigFish_2.mp3</string>
+	<key>bigFish_3</key>
+	<string>sounds/bigFish_3.mp3</string>
+	<key>bigFish_4</key>
+	<string>sounds/bigFish_4.mp3</string>
+	<key>bigFish_5</key>
+	<string>sounds/bigFish_5.mp3</string>
+	<key>bigFish_6</key>
+	<string>sounds/bigFish_6.mp3</string>	
+	
+	<!-- 平台声音 -->
+	<key>platform_BG</key>
+	<string>sounds/platform_background.mp3</string>
+	<key>platform_Btn_Click</key>
+	<string>sounds/platform_sound_button.mp3</string>
+	<key>platform_Btn_Close</key>
+	<string>sounds/platform_sound_close.mp3</string>
+	
+</dict>
+</plist>

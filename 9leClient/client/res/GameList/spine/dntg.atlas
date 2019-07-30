@@ -1,0 +1,55 @@
+
+dntg.png
+size: 823,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hc
+  rotate: false
+  xy: 56, 5
+  size: 204, 191
+  orig: 204, 191
+  offset: 0, 0
+  index: -1
+jb
+  rotate: true
+  xy: 668, 6
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+jgb
+  rotate: false
+  xy: 506, 19
+  size: 160, 177
+  orig: 160, 177
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 668, 87
+  size: 144, 109
+  orig: 144, 109
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 2, 2
+  size: 194, 52
+  orig: 194, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 262, 18
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+xy
+  rotate: false
+  xy: 735, 12
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1

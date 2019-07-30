@@ -1,0 +1,41 @@
+
+fsb.png
+size: 519,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: false
+  xy: 2, 2
+  size: 217, 221
+  orig: 217, 221
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 465, 74
+  size: 149, 52
+  orig: 149, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 221, 45
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+xy1
+  rotate: false
+  xy: 221, 8
+  size: 118, 35
+  orig: 118, 35
+  offset: 0, 0
+  index: -1
+xy2
+  rotate: false
+  xy: 341, 13
+  size: 103, 30
+  orig: 103, 30
+  offset: 0, 0
+  index: -1

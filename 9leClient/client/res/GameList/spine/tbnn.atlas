@@ -1,0 +1,55 @@
+
+tbnn.png
+size: 596,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 385, 56
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 246, 3
+  size: 197, 137
+  orig: 197, 137
+  offset: 0, 0
+  index: -1
+pk1
+  rotate: false
+  xy: 520, 133
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+pk2
+  rotate: false
+  xy: 520, 82
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+pk3
+  rotate: false
+  xy: 520, 56
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 385, 2
+  size: 193, 52
+  orig: 193, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 22
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

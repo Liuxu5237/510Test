@@ -1,0 +1,48 @@
+
+hbddz.png
+size: 389,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dz
+  rotate: true
+  xy: 2, 2
+  size: 142, 198
+  orig: 142, 198
+  offset: 0, 0
+  index: -1
+hb
+  rotate: true
+  xy: 246, 164
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+jbdai
+  rotate: false
+  xy: 275, 8
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+nm
+  rotate: false
+  xy: 202, 27
+  size: 71, 117
+  orig: 71, 117
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 335, 96
+  size: 228, 52
+  orig: 228, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 146
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>NewFolder/27_pri_btn_dismiss_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,948},{86,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,34}</string>
+			</dict>
+			<key>NewFolder/27_pri_btn_dismiss_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,948},{78,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,34}</string>
+			</dict>
+			<key>NewFolder/27_pri_btn_leave_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,982},{86,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,34}</string>
+			</dict>
+			<key>NewFolder/27_pri_btn_leave_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,980},{78,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,34}</string>
+			</dict>
+			<key>NewFolder/27_pri_sp_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{250,146}}</string>
+				<key>offset</key>
+				<string>{4,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{268,152}</string>
+			</dict>
+			<key>NewFolder/27_pri_txt_count.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,948},{48,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{48,21}</string>
+			</dict>
+			<key>NewFolder/27_pri_txt_room.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,996},{36,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,21}</string>
+			</dict>
+			<key>NewFolder/389_sp_tableBtBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1016},{1,1}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1,1}</string>
+			</dict>
+			<key>NewFolder/bt_invite_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,859},{396,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{396,89}</string>
+			</dict>
+			<key>NewFolder/bt_invite_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,146},{396,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{396,89}</string>
+			</dict>
+			<key>NewFolder/gameinfoBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,0},{859,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{863,43}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PrivateGameLayer.png</string>
+			<key>realTextureFileName</key>
+			<string>PrivateGameLayer.png</string>
+			<key>size</key>
+			<string>{396,1017}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>396</integer>
+			<key>height</key>
+			<integer>1017</integer>
+		</dict>
+	</dict>
+</plist>

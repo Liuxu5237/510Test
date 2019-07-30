@@ -1,0 +1,160 @@
+
+dzpk_nvheguan.png
+size: 377,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzpk_nvgbiyan1
+  rotate: false
+  xy: 79, 30
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dzpk_nvgbiyan2
+  rotate: false
+  xy: 226, 17
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dzpk_nvgbody
+  rotate: false
+  xy: 2, 44
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+dzpk_nvgbodyty
+  rotate: false
+  xy: 106, 178
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+dzpk_nvgerhuan
+  rotate: false
+  xy: 365, 76
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+dzpk_nvghair1
+  rotate: true
+  xy: 97, 17
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+dzpk_nvghair2
+  rotate: true
+  xy: 287, 2
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+dzpk_nvghair3
+  rotate: true
+  xy: 287, 53
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+dzpk_nvghair4
+  rotate: true
+  xy: 195, 106
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+dzpk_nvghand1
+  rotate: false
+  xy: 97, 56
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+dzpk_nvghand2
+  rotate: true
+  xy: 201, 160
+  size: 40, 122
+  orig: 40, 122
+  offset: 0, 0
+  index: -1
+dzpk_nvghand3
+  rotate: false
+  xy: 325, 155
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+dzpk_nvghand4
+  rotate: true
+  xy: 2, 5
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+dzpk_nvghandty1
+  rotate: false
+  xy: 292, 102
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+dzpk_nvghandty2
+  rotate: true
+  xy: 347, 10
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+dzpk_nvghead
+  rotate: false
+  xy: 201, 32
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+dzpk_nvgheadty
+  rotate: false
+  xy: 106, 101
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+dzpk_nvglove
+  rotate: false
+  xy: 151, 13
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dzpk_nvgshangbi
+  rotate: true
+  xy: 201, 202
+  size: 61, 112
+  orig: 61, 112
+  offset: 0, 0
+  index: -1
+dzpk_nvgyoushou
+  rotate: false
+  xy: 2, 143
+  size: 102, 120
+  orig: 102, 120
+  offset: 0, 0
+  index: -1
+dzpk_nvgzuiba1
+  rotate: true
+  xy: 79, 8
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dzpk_nvgzuiba2
+  rotate: false
+  xy: 200, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1

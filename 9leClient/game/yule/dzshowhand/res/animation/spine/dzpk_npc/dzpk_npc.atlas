@@ -1,0 +1,125 @@
+
+dzpk_npc.png
+size: 948,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzpk_xcnpcbody
+  rotate: false
+  xy: 2, 3
+  size: 310, 533
+  orig: 310, 533
+  offset: 0, 0
+  index: -1
+dzpk_xcnpcerhuan1
+  rotate: true
+  xy: 665, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+dzpk_xcnpcerhuan2
+  rotate: true
+  xy: 314, 6
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair0
+  rotate: false
+  xy: 907, 96
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair1
+  rotate: false
+  xy: 910, 439
+  size: 36, 97
+  orig: 36, 97
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair2
+  rotate: true
+  xy: 747, 173
+  size: 92, 197
+  orig: 92, 197
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair3
+  rotate: false
+  xy: 779, 32
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair4
+  rotate: false
+  xy: 555, 2
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair5
+  rotate: false
+  xy: 665, 17
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair6
+  rotate: true
+  xy: 585, 361
+  size: 175, 323
+  orig: 175, 323
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchair7
+  rotate: true
+  xy: 747, 92
+  size: 79, 158
+  orig: 79, 158
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchairzs1
+  rotate: true
+  xy: 314, 22
+  size: 101, 239
+  orig: 101, 239
+  offset: 0, 0
+  index: -1
+dzpk_xcnpchead
+  rotate: false
+  xy: 314, 293
+  size: 269, 243
+  orig: 269, 243
+  offset: 0, 0
+  index: -1
+dzpk_xcnpcyanpi
+  rotate: true
+  xy: 740, 2
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+dzpk_xcnpcys1
+  rotate: false
+  xy: 568, 105
+  size: 177, 160
+  orig: 177, 160
+  offset: 0, 0
+  index: -1
+dzpk_xcnpcys2
+  rotate: false
+  xy: 314, 125
+  size: 252, 166
+  orig: 252, 166
+  offset: 0, 0
+  index: -1
+dzpk_xcnpczs2
+  rotate: true
+  xy: 585, 267
+  size: 92, 327
+  orig: 92, 327
+  offset: 0, 0
+  index: -1

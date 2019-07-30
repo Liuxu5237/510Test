@@ -1,0 +1,48 @@
+
+lkpy.png
+size: 568,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd1
+  rotate: false
+  xy: 398, 11
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dd2
+  rotate: true
+  xy: 447, 76
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+lk
+  rotate: true
+  xy: 2, 7
+  size: 228, 199
+  orig: 228, 199
+  offset: 0, 0
+  index: -1
+lktitle
+  rotate: false
+  xy: 203, 2
+  size: 193, 53
+  orig: 193, 53
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 203, 57
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 447, 109
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,227 @@
+<array>
+	<dict>
+		<key>name</key>		<string>Mark</string>
+		<key>format</key>	<string>Mark_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>LuckyAni</string>
+		<key>format</key>	<string>LuckyAni_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>PaoTaiEffect</string>
+		<key>format</key>	<string>PaoTaiEffect_%02d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow0</string>
+		<key>format</key>	<string>Bow1_%02d.png</string>
+		<key>head</key>		<string>1</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+      <string>1,1</string>
+      <string>2,1</string>
+      <string>3,1</string>
+      <string>4,1</string>
+      <string>5,1</string>
+      <string>6,1</string>
+      <string>7,1</string>
+      <string>8,1</string>
+      <string>9,1</string>
+      <string>10,1</string>
+      <string>11,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow1</string>
+		<key>format</key>	<string>Bow2_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+      <string>1,1</string>
+      <string>2,1</string>
+      <string>3,1</string>
+      <string>4,1</string>
+      <string>5,1</string>
+      <string>6,1</string>
+      <string>7,1</string>
+      <string>8,1</string>
+      <string>9,1</string>
+      <string>10,1</string>
+      <string>11,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow2</string>
+		<key>format</key>	<string>Bow2_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+      <string>1,1</string>
+      <string>2,1</string>
+      <string>3,1</string>
+      <string>4,1</string>
+      <string>5,1</string>
+      <string>6,1</string>
+      <string>7,1</string>
+      <string>8,1</string>
+      <string>9,1</string>
+      <string>10,1</string>
+      <string>11,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow3</string>
+		<key>format</key>	<string>Bow3_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+      <string>1,1</string>
+      <string>2,1</string>
+      <string>3,1</string>
+      <string>4,1</string>
+      <string>5,1</string>
+      <string>6,1</string>
+      <string>7,1</string>
+      <string>8,1</string>
+      <string>9,1</string>
+      <string>10,1</string>
+      <string>11,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow4</string>
+		<key>format</key>	<string>Bow3_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+      <string>1,1</string>
+      <string>2,1</string>
+      <string>3,1</string>
+      <string>4,1</string>
+      <string>5,1</string>
+      <string>6,1</string>
+      <string>7,1</string>
+      <string>8,1</string>
+      <string>9,1</string>
+      <string>10,1</string>
+      <string>11,1</string>
+		</array>
+	</dict>
+
+	<!-- 去掉炮台类型
+	<dict>
+		<key>name</key>		<string>Bow5</string>
+		<key>format</key>	<string>Bow6_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>1,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow6</string>
+		<key>format</key>	<string>Bow7_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>1,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>Bow7</string>
+		<key>format</key>	<string>Bow8_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>1,1</string>
+		</array>
+	</dict>
+	<!-- 去掉炮台类型结束 -->
+	
+	<!-- 能量炮!!!! -->
+	<dict>
+		<key>name</key>		<string>EnergyConnon</string>
+		<key>format</key>	<string>img_jiguang_%02d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>10,1</string>
+			<string>9,1</string>
+		</array>
+	</dict>
+</array>

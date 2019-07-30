@@ -1,0 +1,55 @@
+
+hhdz.png
+size: 783,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hllight
+  rotate: true
+  xy: 2, 86
+  size: 237, 231
+  orig: 237, 231
+  offset: 0, 0
+  index: -1
+lbg
+  rotate: true
+  xy: 595, 182
+  size: 141, 186
+  orig: 141, 186
+  offset: 0, 0
+  index: -1
+nan
+  rotate: false
+  xy: 602, 5
+  size: 143, 175
+  orig: 143, 175
+  offset: 0, 0
+  index: -1
+nv
+  rotate: true
+  xy: 415, 138
+  size: 185, 178
+  orig: 185, 178
+  offset: 0, 0
+  index: -1
+rbg
+  rotate: true
+  xy: 415, 2
+  size: 134, 185
+  orig: 134, 185
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 32
+  size: 194, 52
+  orig: 194, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 235, 81
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

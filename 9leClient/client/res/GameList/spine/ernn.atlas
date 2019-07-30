@@ -1,0 +1,41 @@
+
+ernn.png
+size: 579,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cmp
+  rotate: false
+  xy: 458, 2
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 24
+  size: 210, 229
+  orig: 210, 229
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 214, 21
+  size: 192, 52
+  orig: 192, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 214, 75
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 458, 84
+  size: 108, 169
+  orig: 108, 169
+  offset: 0, 0
+  index: -1

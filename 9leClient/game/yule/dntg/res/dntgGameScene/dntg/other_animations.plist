@@ -1,0 +1,140 @@
+<array>
+	<!-- 任务 -->
+	<dict>
+		<key>name</key>		<string>TaskComplete</string>
+		<key>format</key>	<string>TaskComplete_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>TaskStartAni</string>
+		<key>format</key>	<string>TaskStartAni_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+			<string>11,1</string>
+			<string>12,1</string>
+			<string>13,1</string>
+			<string>14,1</string>
+			<string>15,1</string>
+			<string>16,1</string>
+		</array>
+	</dict>
+
+	<!-- 海浪 -->
+	<dict>
+		<key>name</key>		<string>Cloud</string>
+		<key>format</key>	<string>Cloud%d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+		</array>
+	</dict>
+	
+	<!-- 闪电线 -->
+	<dict>
+		<key>name</key>		<string>PinkLine</string>
+		<key>format</key>	<string>img_pink_line_%d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>BlueLine</string>
+		<key>format</key>	<string>img_blue_line_%d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>YellowLine</string>
+		<key>format</key>	<string>img_yellow_line_%d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+		</array>
+	</dict>
+	
+	<dict>
+		<key>name</key>		<string>GreenCircle300</string>
+		<key>format</key>	<string>img_green_circle_%d.png</string>
+		<key>delay</key>	<string>0.15</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+		</array>
+	</dict>
+	
+	<!-- 财神动画 -->
+	<dict>
+		<key>name</key>		<string>MoneyGold</string>
+		<key>format</key>	<string>Net40_%02d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+			<string>6,1</string>
+			<string>7,1</string>
+			<string>8,1</string>
+			<string>9,1</string>
+			<string>10,1</string>
+		</array>
+	</dict>
+</array>

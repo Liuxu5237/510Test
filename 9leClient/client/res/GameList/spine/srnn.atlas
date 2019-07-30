@@ -1,0 +1,41 @@
+
+srnn.png
+size: 476,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ht
+  rotate: true
+  xy: 219, 2
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+ht1
+  rotate: true
+  xy: 2, 11
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+niu
+  rotate: false
+  xy: 2, 45
+  size: 215, 194
+  orig: 215, 194
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 283, 7
+  size: 191, 52
+  orig: 191, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 219, 61
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

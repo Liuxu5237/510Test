@@ -1,0 +1,26 @@
+﻿<!-- plist 资源加载 -->
+<array>
+	<!-- 游戏场景资源 -->
+	<string>dntgGameScene/birds1</string>
+	<string>dntgGameScene/birds2</string>
+	<string>dntgGameScene/scene1</string>
+	<string>dntgGameScene/scene2</string>
+	<string>dntgGameScene/effect0</string>
+	<string>dntgGameScene/effect1</string>
+	<string>dntgGameScene/effect2</string>
+	<string>dntgGameScene/effect3</string>
+	<string>dntgGameScene/effect4</string>
+	<string>dntgGameScene/effect5</string>
+	<string>dntgGameScene/effect6</string>
+	<string>dntgGameScene/effect7</string>
+	<string>dntgGameScene/effect8</string>	
+	<string>dntgGameScene/nets1</string>
+	<string>dntgGameScene/paotai</string>
+	<string>dntgGameScene/coins</string>
+	<string>dntgGameScene/task</string>
+	<string>dntgGameScene/bullets</string>
+	<string>dntgGameScene/line_1</string>
+	<string>dntgGameScene/frame</string>
+	<string>dntgGameScene/GameGuide/GameGuideRes</string>
+	<string>dntgGameScene/waterAni/waterAni</string>	
+</array>

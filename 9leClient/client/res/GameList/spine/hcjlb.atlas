@@ -1,0 +1,27 @@
+
+hcjlb.png
+size: 460,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che
+  rotate: true
+  xy: 2, 2
+  size: 252, 222
+  orig: 252, 222
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 406, 25
+  size: 229, 52
+  orig: 229, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 226, 12
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

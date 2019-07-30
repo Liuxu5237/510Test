@@ -1,0 +1,48 @@
+
+pjl.png
+size: 425,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb1
+  rotate: false
+  xy: 197, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: false
+  xy: 197, 25
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+jb3
+  rotate: false
+  xy: 154, 14
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+pjlTitle
+  rotate: false
+  xy: 2, 3
+  size: 150, 52
+  orig: 150, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 57
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+wom
+  rotate: false
+  xy: 246, 18
+  size: 177, 217
+  orig: 177, 217
+  offset: 0, 0
+  index: -1

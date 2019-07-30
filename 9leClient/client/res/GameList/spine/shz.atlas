@@ -1,0 +1,27 @@
+
+shz.png
+size: 507,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: false
+  xy: 246, 14
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 452, 30
+  size: 150, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 2
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

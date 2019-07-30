@@ -1,0 +1,9 @@
+﻿ <root>
+	
+	<ScriptValueInt Key="intKey" Value="0"/>
+	<ScriptValueStr Key="stringKey" Value=""/>
+	<ScriptValueFloat Key="floatKey" Value="0"/>
+	<ScriptValuePoint Key="pointKey" Value="0 0"/>
+	<ScriptValueSize Key="sizeKey" Value="0 0"/>
+	
+ </root>

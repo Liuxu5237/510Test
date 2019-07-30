@@ -1,0 +1,18 @@
+<dict>
+	<key>name</key>		<string>Halo</string>
+	<key>format</key>	<string>eff_edge_effect00_%02d.png</string>
+	<key>delay</key>	<string>0.1</string>
+	<key>frames</key>
+	<array>
+		<string>1,1</string>
+		<string>3,1</string>
+		<string>5,1</string>
+		<string>7,1</string>
+		<string>9,1</string>
+		<string>11,1</string>
+		<string>13,1</string>
+		<string>15,1</string>
+	</array>
+</dict>
+
+	

@@ -1,0 +1,48 @@
+
+csd.png
+size: 384,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9lines
+  rotate: false
+  xy: 2, 4
+  size: 72, 26
+  orig: 72, 26
+  offset: 0, 0
+  index: -1
+cs
+  rotate: false
+  xy: 2, 102
+  size: 200, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
+jb
+  rotate: true
+  xy: 336, 12
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+jbbg
+  rotate: false
+  xy: 2, 32
+  size: 179, 68
+  orig: 179, 68
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 183, 2
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: true
+  xy: 204, 56
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

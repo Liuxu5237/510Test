@@ -1,0 +1,26 @@
+{
+  "gamelist" : [
+    {"KindID":"6","KindName":"诈金花","TypeID":"0","ModuleName":"yule/zhajinhua","gameName":"yule.zhajinhua","ClientVersion":"101122049","ResVersion":"7","SortID":"21","KindMark":"3"},
+    {"KindID":"25","KindName":"港式五张","TypeID":"0","ModuleName":"yule/hkfivecardnew/","gameName":"yule.hkfivecardnew","ClientVersion":"101122049","ResVersion":"0","SortID":"16","KindMark":"3"},
+    {"KindID":"27","KindName":"四人牛牛","TypeID":"0","ModuleName":"yule/OxNew/","gameName":"yule.OxNew","ClientVersion":"101122049","ResVersion":"7","SortID":"22","KindMark":"3"},
+    {"KindID":"36","KindName":"通比牛牛","TypeID":"0","ModuleName":"yule/oxsixex/","gameName":"yule.oxsixex","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"102","KindName":"二人牛牛","TypeID":"0","ModuleName":"yule/oxex/","gameName":"yule.oxex","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"104","KindName":"百人牛牛","TypeID":"0","ModuleName":"yule/oxbattle/","gameName":"yule.oxbattle","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"105","KindName":"欢乐两张","TypeID":"0","ModuleName":"yule/redninebattle/","gameName":"yule.redninebattle","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"118","KindName":"百人骰宝","TypeID":"0","ModuleName":"yule/sicbobattle/","gameName":"yule.sicbobattle","ClientVersion":"101122049","ResVersion":"0","SortID":"16","KindMark":"3"},
+    {"KindID":"122","KindName":"百家乐","TypeID":"0","ModuleName":"yule/baccaratnew/","gameName":"yule.baccaratnew","ClientVersion":"101122049","ResVersion":"1","SortID":"17","KindMark":"3"},
+    {"KindID":"123","KindName":"飞禽走兽","TypeID":"0","ModuleName":"yule/animalbattle/","gameName":"yule.animalbattle","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"140","KindName":"豪车俱乐部","TypeID":"0","ModuleName":"yule/luxurycar/","gameName":"yule.luxurycar","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"200","KindName":"斗地主","TypeID":"0","ModuleName":"qipai/land/","gameName":"qipai.land","ClientVersion":"101122049","ResVersion":"1","SortID":"23","KindMark":"3"},
+    {"KindID":"389","KindName":"红中麻将","TypeID":"0","ModuleName":"yule/sparrowhz/","gameName":"yule.sparrowhz","ClientVersion":"101122049","ResVersion":"0","SortID":"24","KindMark":"3"},
+    {"KindID":"391","KindName":"广东麻将","TypeID":"0","ModuleName":"yule/majong/","gameName":"yule.majong","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"401","KindName":"五子棋","TypeID":"0","ModuleName":"yule/gobang/","gameName":"yule.gobang","ClientVersion":"101122049","ResVersion":"1","SortID":"2","KindMark":"3"},
+    {"KindID":"503","KindName":"连环夺宝","TypeID":"0","ModuleName":"yule/DuoBao/","gameName":"yule.DuoBao","ClientVersion":"101122049","ResVersion":"2","SortID":"0","KindMark":"3"},
+    {"KindID":"507","KindName":"人鱼奇缘","TypeID":"0","ModuleName":"yule/FishRY/","gameName":"yule.FishRY","ClientVersion":"101122049","ResVersion":"0","SortID":"18","KindMark":"3"},
+    {"KindID":"510","KindName":"新李逵劈鱼","TypeID":"0","ModuleName":"yule/FishLK/","gameName":"yule.FishLK","ClientVersion":"101122049","ResVersion":"0","SortID":"20","KindMark":"3"},
+    {"KindID":"511","KindName":"摇钱树","TypeID":"0","ModuleName":"yule/FishYQS/","gameName":"yule.FishYQS","ClientVersion":"101122049","ResVersion":"1","SortID":"19","KindMark":"3"},
+    { "KindID": "516", "KindName": "水浒传", "TypeID": "0", "ModuleName": "yule/WaterMargin/", "gameName": "yule.WaterMargin", "ClientVersion": "101122049", "ResVersion": "0", "SortID": "17", "KindMark": "3" },
+    {"KindID":"13","KindName":"封神榜","TypeID":"0","ModuleName":"yule/fengshenbang/","gameName":"yule.fengshenbang","ClientVersion":"101122049","ResVersion":"0","SortID":"0","KindMark":"3"},
+    {"KindID":"2068","KindName":"幸运财神","TypeID":"0","ModuleName":"yule/godofwealth/","gameName":"yule.godofwealth","ClientVersion":"101122049","ResVersion":"0","SortID":"24","KindMark":"3"}
+  ]
+}

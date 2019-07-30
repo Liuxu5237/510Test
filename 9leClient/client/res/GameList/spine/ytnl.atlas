@@ -1,0 +1,41 @@
+
+ytnl.png
+size: 691,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl
+  rotate: true
+  xy: 429, 63
+  size: 122, 200
+  orig: 122, 200
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 631, 75
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+mch
+  rotate: true
+  xy: 246, 2
+  size: 183, 181
+  orig: 183, 181
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 429, 9
+  size: 192, 52
+  orig: 192, 52
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 2, 7
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1

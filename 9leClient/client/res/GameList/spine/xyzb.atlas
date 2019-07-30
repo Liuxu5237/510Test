@@ -1,0 +1,34 @@
+
+xyzb.png
+size: 743,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 8
+  size: 226, 198
+  orig: 226, 198
+  offset: 0, 0
+  index: -1
+tuopan
+  rotate: false
+  xy: 230, 28
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+wk
+  rotate: true
+  xy: 474, 2
+  size: 204, 213
+  orig: 204, 213
+  offset: 0, 0
+  index: -1
+xytitle
+  rotate: true
+  xy: 689, 14
+  size: 192, 52
+  orig: 192, 52
+  offset: 0, 0
+  index: -1
